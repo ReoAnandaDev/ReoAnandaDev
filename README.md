@@ -71,8 +71,11 @@
 <img src="https://raw.githubusercontent.com/ReoAnandaDev/ReoAnandaDev/output/snake.svg" alt="Snake animation" />
 
 ###
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/hx3dntbox1xzra47wsf0oa5sz)
+
 
 <div align="left">
+  
   <a href="https://open.spotify.com/user/hx3dntbox1xzra47wsf0oa5sz">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=hx3dntbox1xzra47wsf0oa5sz&count=5" alt="Spotify recently played"  />
   </a>
